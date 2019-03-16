@@ -13,8 +13,8 @@ outline: none !important;
 
 h1,h2,h3,h4{margin: 0;line-height: 1em;}
 h1{font:700 5em Roboto,Arial,Helvetica;margin:0.25em 0;text-transform: uppercase;}
-h2{font:300 2.5em Roboto,Arial,Helvetica;margin-bottom: 1.5em;}
-h3{font:300 2em Roboto,Arial,Helvetica;margin:2em 0 1em 0;}
+h2{font:300 2.5em Roboto,Arial,Helvetica;margin-bottom: 1em;}
+h3{font:300 2em Roboto,Arial,Helvetica;margin:1em 0 1em 0;}
 h4{font:300 1.5em Roboto,Arial,Helvetica;margin-bottom: 1em;}
 h4 i{margin-right: 0.5em;}
 
@@ -22,8 +22,6 @@ h4 i{margin-right: 0.5em;}
 	width: 450px;
 	height: 325px;
 }
-
-p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 .spacer{padding: 6em 0;}
 
@@ -36,7 +34,6 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 .topbar {background:url(../images/lines.png);	height:5px;position: fixed;top: 0;width: 100%;z-index: 1000;}
 .navbar-nav > li > a{font-size: 1em;line-height: 3.6em;}
-.navbar-fixed-top{top: 5px;}
 .navbar-inverse{background: #111;}
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{background: none;color: #21abca;}
 
@@ -52,6 +49,12 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .carousel-control{z-index:1000;}
 
 /*about*/
+.profile-img{width: 80%;}
+.navbar{margin-bottom: 0;}
+#profile .content-wrap {background-color: #274C77; padding: 20px;}
+#profile .content-wrap h1,h2 {color: whitesmoke;}
+#profile .content-wrap h5 {color: rgba(231, 236, 236, 0.83);}
+
 .about.spacer{padding-left: 4em; padding-right: 4em;}
 .process ul li{width: 10em;height: 10em;border: 1px solid #CEEBF0;padding: 0;border-radius: 50%;margin: 0 1.25em;line-height: 13.5em;color: #21ABCA;}
 .process ul li span{line-height: 2em;display: inline-block;font-weight: 300;}
