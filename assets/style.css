@@ -1,5 +1,3 @@
-body {	color:#666;	font:300 15px/15px Roboto,Arial,Helvetica;background-color:#fff;-webkit-font-smoothing:antialiased;}
-
 a{color:#00a9c6; text-decoration:none;}
 a:hover{color:#666;}
 .btn,a,.btn:hover,a:hover {
@@ -12,9 +10,9 @@ outline: none !important;
 }
 
 h1,h2,h3,h4{margin: 0;line-height: 1em;}
-h1{font:700 5em Roboto,Arial,Helvetica;margin:0.25em 0;text-transform: uppercase;}
+h1{font:700 4em Roboto,Arial,Helvetica;margin:0.25em 0;text-transform: uppercase;}
 h2{font:300 2.5em Roboto,Arial,Helvetica;margin-bottom: 1em;}
-h3{font:300 2em Roboto,Arial,Helvetica;margin:1em 0 1em 0;}
+h3{font:300 2em Roboto,Arial,Helvetica}
 h4{font:300 1.5em Roboto,Arial,Helvetica;margin-bottom: 1em;}
 h4 i{margin-right: 0.5em;}
 
@@ -51,7 +49,7 @@ h4 i{margin-right: 0.5em;}
 /*about*/
 .profile-img{width: 80%;}
 .navbar{margin-bottom: 0;}
-#profile .content-wrap {background-color: #274C77; padding: 20px;}
+#profile .content-wrap {background-color: #274C77}
 #profile .content-wrap h1,h2 {color: whitesmoke;}
 #profile .content-wrap h5 {color: rgba(231, 236, 236, 0.83);}
 
@@ -164,4 +162,39 @@ h4 i{margin-right: 0.5em;}
 	.grid.team div{margin: 0;padding: 0;}
 	figure.effect-chico figcaption {padding: 1.5em;}
 	.footer{margin-top: 2em;padding-bottom: 2em;}
+}
+
+.section-heading {
+	padding-top: 3rem;
+	font-family: 'Varela Round', sans-serif;
+	font-weight: bold;
+	font-size: 37px;
+}
+
+.section-subheading {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 23px;
+}
+
+.description {
+	font-family: 'Amiri', serif;
+	font-size: 23px;
+}
+
+/*Work Experience*/
+#experience .content-wrap {background-color: #FAFFD8}
+
+
+
+
+
+/*Awards and Prizes*/
+#awards .content-wrap {background-color: #C6E0FF}
+
+
+/* Calligraphy */
+
+.caligraphy-title {
+	font-family: 'Rubik', sans-serif;
+	font-size: 56px;
 }
