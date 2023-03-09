@@ -10,12 +10,12 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-       <loc>http://abdulmajeeddehlvicaligraphy.herokuapp.com/</loc>
-       <lastmod>2019-12-05T19:41:45+00:00</lastmod>
+       <loc>https://abdulmajeeddehlvi.netlify.app/</loc>
+       <lastmod>2023-03-09T19:41:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
        <image:image>
-        <image:loc>http://abdulmajeeddehlvicaligraphy.herokuapp.com/images/profile.jpg</image:loc>
+        <image:loc>https://abdulmajeeddehlvi.netlify.app/images/profile.jpg</image:loc>
        </image:image>
   </url>
 </urlset>
