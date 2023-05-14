@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://abdulmajeeddehlvi.netlify.app/sitemap.xml
